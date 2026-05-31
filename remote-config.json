@@ -1,0 +1,23 @@
+{
+  "subscriptionPlans": [
+    {
+      "sku": "test-1",
+      "durationDays": 365,
+      "title": "اشتراک سالانه-تست",
+      "price": "۴۴۹٬۰۰۰",
+      "unit": "تومان / سال",
+      "meta": "معادل ماهی ۳۷٬۴۰۰ تومان",
+      "savings": "۲۴٪ صرفه‌جویی نسبت به ماهانه",
+      "showBadge": true
+    },
+    {
+      "sku": "zinhar_plus_monthly",
+      "durationDays": 30,
+      "title": "اشتراک ماهانه",
+      "price": "۴۹٬۰۰۰",
+      "unit": "تومان / ماه",
+      "meta": "قابل لغو از داخل کافه‌بازار",
+      "showBadge": false
+    }
+  ]
+}
