@@ -1,7 +1,7 @@
 {
   "subscriptionPlans": [
     {
-      "sku": "test-1",
+      "sku": "zinhar_plus_yearly",
       "durationDays": 365,
       "title": "اشتراک سالانه-تست",
       "price": "۴۴۹٬۰۰۰",
