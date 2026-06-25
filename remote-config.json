@@ -19,5 +19,6 @@
       "meta": "نیاز به تمدید ماهانه",
       "showBadge": false
     }
-  ]
+  ],
+  "paywallEnabled": false
 }
