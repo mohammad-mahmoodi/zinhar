@@ -4,21 +4,21 @@
       "sku": "zinhar_plus_yearly",
       "durationDays": 365,
       "title": "اشتراک سالانه",
-      "price": "۴۴۹٬۰۰۰",
+      "price": "۹۹٬۰۰۰",
       "unit": "تومان / سال",
-      "meta": "معادل ماهی ۳۷٬۴۰۰ تومان",
-      "savings": "۲۴٪ صرفه‌جویی نسبت به ماهانه",
+      "meta": "معادل ماهی ۷٬۶۰۰ تومان",
+      "savings": "۵۰٪ تخفیف - فرصت محدود",
       "showBadge": true
     },
     {
       "sku": "zinhar_plus_monthly",
       "durationDays": 30,
       "title": "اشتراک ماهانه",
-      "price": "۴۹٬۰۰۰",
+      "price": "۱۵٬۰۰۰",
       "unit": "تومان / ماه",
       "meta": "نیاز به تمدید ماهانه",
       "showBadge": false
     }
   ],
-  "paywallEnabled": false
+  "paywallEnabled": true
 }
