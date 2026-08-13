@@ -21,5 +21,6 @@
       "showBadge": false
     }
   ],
-  "paywallEnabled": true
+  "paywallEnabled": true,
+  "giftCampaignEnabled": true
 }
