@@ -7,14 +7,14 @@
       "price": "۳۰۰٬۰۰۰",
       "unit": "تومان / سال",
       "meta": "معادل ماهی ۲۵٬۰۰۰ تومان",
-      "savings": "دو ماه رایگان نسبت به طرح ماهانه",
+      "savings": "سه ماه رایگان نسبت به طرح ماهانه",
       "showBadge": true
     },
     {
       "sku": "zinhar_plus_monthly",
       "durationDays": 30,
       "title": "اشتراک ماهانه",
-      "price": "۳۰٬۰۰۰",
+      "price": "۳۵٬۰۰۰",
       "unit": "تومان / ماه",
       "meta": "نیاز به تمدید ماهانه",
       "showBadge": false
