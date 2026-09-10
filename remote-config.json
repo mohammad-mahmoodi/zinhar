@@ -22,5 +22,8 @@
   ],
   "paywallEnabled": true,
   "giftCampaignEnabled": true,
-  "pushEnabled": true
+  "pushEnabled": true,
+  "promoCodes": [
+    { "id": "shahrivar30", "codeHash": "2c11c6d7acf808d93564e598708cf42272b2c036f9cc2d36a6146a4be4a75781", "percentOff": 30, "expiresAtMillis": 0 }
+  ]
 }
