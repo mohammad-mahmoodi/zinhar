@@ -24,6 +24,7 @@
   "giftCampaignEnabled": true,
   "pushEnabled": true,
   "promoCodes": [
-    { "id": "shahrivar30", "codeHash": "2c11c6d7acf808d93564e598708cf42272b2c036f9cc2d36a6146a4be4a75781", "percentOff": 30, "expiresAtMillis": 0 }
+    { "id": "shahrivar30", "codeHash": "2c11c6d7acf808d93564e598708cf42272b2c036f9cc2d36a6146a4be4a75781", "percentOff": 30, "expiresAtMillis": 0 },
+    { "id": "mehr50", "codeHash": "9860cd88876efdb9aae0e904980e822786da4d2227f3a9795eacf34daf5ef542", "percentOff": 50, "expiresAtMillis": 0 }
   ]
 }
