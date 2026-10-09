@@ -11,6 +11,15 @@
       "showBadge": true
     },
     {
+      "sku": "zinhar_plus_semiannual",
+      "durationDays": 180,
+      "title": "اشتراک شش‌ماهه",
+      "price": "۲۱۰٬۰۰۰",
+      "unit": "تومان / شش ماه",
+      "meta": "معادل ماهی ۳۵٬۰۰۰ تومان",
+      "showBadge": false
+    },
+    {
       "sku": "zinhar_plus_monthly",
       "durationDays": 30,
       "title": "اشتراک ماهانه",
